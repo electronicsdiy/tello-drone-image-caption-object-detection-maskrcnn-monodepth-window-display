@@ -80,9 +80,9 @@ https://www.dropbox.com/s/26adb7y9m98uisa/vocap.zip?dl=0
 
 > On its first run either of these commands will download the mono+stereo_640x192 pretrained model (99MB) into the models/ folder. We provide the following options for --model_name:
 
-上記の指示に従い、次のURLから、zipファイルをダウンロードして下さい。zipは解凍せずに、zipファイルのまま格納してください。
+上記の指示に従い、次のURLから、mono+stereo_640x192のzipファイルをダウンロードして下さい。zipは解凍せずに、zipファイルのまま格納してください。
 
-* https://storage.googleapis.com/niantic-lon-static/research/monodepth2/mono_640x192.zip
+* https://storage.googleapis.com/niantic-lon-static/research/monodepth2/mono%2Bstereo_640x192.zip
 
 このzipファイルは、次のスクリプトファイルの104行目にあるメソッドから読み込まれます。
 
