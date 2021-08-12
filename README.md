@@ -35,6 +35,10 @@ tar zxvf mask_rcnn_inception_v2_coco_2018_01_28.tar.gz
 
 * https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning
 
+> **Pretrained model**
+>
+> If you do not want to train the model from scratch, you can use a pretrained model. You can download the pretrained model **here** and the vocabulary file **here**. You should extract pretrained_model.zip to ./models/ and vocab.pkl to ./data/ using unzip command.
+
 #### **1. 以下から学習済みのモデルファイルをダウンロードし、ファイル名を変更後、example/modelsの直下に格納してください。**
 
 - decoder-5-3000.pkl
