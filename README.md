@@ -8,7 +8,17 @@
 
 ![frame_img_shot_2021年08月12日14:42:19](https://user-images.githubusercontent.com/87643752/129156693-02e7a2f9-505a-45af-a2e6-e407393d2616.jpg)
 
+## 実行方法
 
+__**examples/直下で、次を実行してください、**__
+
+> python3 tello_camera_image_captioned_description_masked_rcnn_depth_window.py
+
+* Terminalに大量のメッセージが吐き出され始めます。
+* しばらく待つと、ウィンドウが立ち上がります。
+* キーボードの**i**を押下すると、Telloが離陸します。
+* キーボードの**g**を押下すると、Telloが離陸します。
+* 終了させるときは、Terminalで**CTRL-C**もしくは**CTRL-Z**を押してください。
 
 
 ## 事前準備
