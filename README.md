@@ -1,10 +1,21 @@
 # tello-drone-image-caption-object-detection-maskrcnn-monodepth-window-display
 
+![frame_img_shot_2021年08月12日14:41:58](https://user-images.githubusercontent.com/87643752/129156669-ae8d8fb2-1346-4463-9c11-10019e67105c.jpg)
+
+![frame_img_shot_2021年08月12日14:41:25](https://user-images.githubusercontent.com/87643752/129156906-2a0dc44a-7112-41b1-b910-6ab00291665a.jpg)
+
+![frame_img_shot_2021年08月12日14:41:40](https://user-images.githubusercontent.com/87643752/129156798-1c969b82-b7e1-4800-ba81-a53854fc0781.jpg)
+
+![frame_img_shot_2021年08月12日14:42:19](https://user-images.githubusercontent.com/87643752/129156693-02e7a2f9-505a-45af-a2e6-e407393d2616.jpg)
+
+
+
+
+## 事前準備
+
 **MASK-RCNN**の実装コードは、次のリポジトリのものを使っています。
 
 * https://github.com/spmallick/learnopencv/blob/master/Mask-RCNN/README.md
-
-## 事前準備
 
 ### examples/直下で以下を実行してください
 
