@@ -1,6 +1,6 @@
 # tello-drone-image-caption-object-detection-maskrcnn-monodepth-window-display
 
-####　examples/mask_rcnn_inception_v2_coco_2018_01_28/直下の資源の取得
+#### examples/mask_rcnn_inception_v2_coco_2018_01_28/直下の資源の取得
 
 -https://github.com/spmallick/learnopencv/blob/master/Mask-RCNN/README.md
 Python
