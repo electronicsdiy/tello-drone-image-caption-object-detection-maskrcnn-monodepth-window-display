@@ -39,7 +39,7 @@ tar zxvf mask_rcnn_inception_v2_coco_2018_01_28.tar.gz
 >
 > If you do not want to train the model from scratch, you can use a pretrained model. You can download the pretrained model **here** and the vocabulary file **here**. You should extract pretrained_model.zip to ./models/ and vocab.pkl to ./data/ using unzip command.
 
-#### **1. 以下から学習済みのモデルファイルをダウンロードし、ファイル名を変更後、example/modelsの直下に格納してください。**
+#### **1. 以下から学習済みのモデルファイル（**pretrained_modex.zip*）をダウンロードし、zipを解答後、中にある以下の２つのファイルのファイル名を変更後、example/modelsの直下に格納してください。**
 
 - decoder-5-3000.pkl
 - encoder-5-3000.pkl
