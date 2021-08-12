@@ -70,7 +70,7 @@ https://www.dropbox.com/s/ne0ixz5d58ccbbz/pretrained_model.zip?dl=0
 https://www.dropbox.com/s/26adb7y9m98uisa/vocap.zip?dl=0
 
 
-#### 3. 外部のURLから、zipファイルをダウンロードして下さい。zipファイルのまま、解答せずにコードは動きます。
+#### **3. 外部のURLから、zipファイルをダウンロードして下さい。zipファイルのまま、解答せずにコードは動きます。**
 
 単眼カメラ画像の深度推定を行う部分は、次のリポジトリの実装コードを利用しています。
 
