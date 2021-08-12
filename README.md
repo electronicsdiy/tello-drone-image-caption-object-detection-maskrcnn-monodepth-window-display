@@ -11,7 +11,8 @@
 ## 実行方法
 
 ます最初に、Telloに電源のオンにします。
-MacbookとTelloをWifiで接続してください。（Tello: Wifi親機（ホスト）、Macbook：Wifi子機(クライアント)）
+MacbookとTelloをWifiで接続してください。
+（Tello: Wifi親機（ホスト）、Macbook：Wifi子機(クライアント)）
 
 __**examples/直下で、次を実行してください、**__
 
