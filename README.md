@@ -51,7 +51,7 @@ https://www.dropbox.com/s/ne0ixz5d58ccbbz/pretrained_model.zip?dl=0
 - encoder-5-3000.pkl → encoder-2-1000.ckpt
 - decoder-5-3000.pkl → decoder-2-1000.ckpt
 
-#### **2. 以下から学習済みのボキャブラリファイルをダウンロードし、example/dataの直下に格納してください。**
+#### **2. 以下から学習済みのボキャブラリファイル（vpcap.zip）をダウンロードして、zipファイルを解答後、中にあるvocab.pklファイルを、example/dataの直下に格納してください。**
 
 https://www.dropbox.com/s/26adb7y9m98uisa/vocap.zip?dl=0
 
