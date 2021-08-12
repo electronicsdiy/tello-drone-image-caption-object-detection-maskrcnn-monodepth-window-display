@@ -80,6 +80,17 @@ https://www.dropbox.com/s/26adb7y9m98uisa/vocap.zip?dl=0
 
 > On its first run either of these commands will download the mono+stereo_640x192 pretrained model (99MB) into the models/ folder. We provide the following options for --model_name:
 
-上記の指示に従い、次のURLから、zipファイルをダウンロードして下さい。
+上記の指示に従い、次のURLから、zipファイルをダウンロードして下さい。zipは解凍せずに、zipファイルのまま格納してください。
 
 * https://storage.googleapis.com/niantic-lon-static/research/monodepth2/mono_640x192.zip
+
+このzipファイルは、次のスクリプトファイルの104行目にあるメソッドから読み込まれます。
+
+**呼び出し元のスクリプトファイル**
+
+* tello-drone-image-caption-object-detection-maskrcnn-monodepth-window-display/examples/utils.py
+
+**104行目**
+
+> download_model_if_doesnt_exist
+>    urllib.request.urlretrieve(model_url, model_path + ".zip")
