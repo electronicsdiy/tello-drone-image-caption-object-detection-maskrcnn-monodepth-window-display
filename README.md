@@ -60,7 +60,7 @@ tar zxvf mask_rcnn_inception_v2_coco_2018_01_28.tar.gz
 
 https://www.dropbox.com/s/ne0ixz5d58ccbbz/pretrained_model.zip?dl=0
 
-#### **2. 2つのファイルをコピーして、以下の別名で同じディレクトリ（example/modelsの直下）に保存する。。最初の「5-3000」名の2つのファイルは削除しない。※＊
+#### **2. 2つのファイルをコピーして、以下の別名で同じディレクトリ（example/modelsの直下）に保存する。最初の「5-3000」名の2つのファイルは削除しない。**
 
 - encoder-5-3000.ckpt → encoder-2-1000.ckpt
 - decoder-5-3000.ckpt → decoder-2-1000.ckpt
