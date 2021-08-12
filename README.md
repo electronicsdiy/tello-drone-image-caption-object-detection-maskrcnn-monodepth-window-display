@@ -84,6 +84,10 @@ https://www.dropbox.com/s/26adb7y9m98uisa/vocap.zip?dl=0
 
 * https://storage.googleapis.com/niantic-lon-static/research/monodepth2/mono%2Bstereo_640x192.zip
 
+wgetコマンドで取得できます。
+
+> % wget https://storage.googleapis.com/niantic-lon-static/research/monodepth2/mono%2Bstereo_640x192.zip
+
 このzipファイルは、次のスクリプトファイルの104行目にあるメソッドから読み込まれます。
 
 **呼び出し元のスクリプトファイル**
