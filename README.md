@@ -39,3 +39,16 @@ https://www.dropbox.com/s/ne0ixz5d58ccbbz/pretrained_model.zip?dl=0
 https://www.dropbox.com/s/26adb7y9m98uisa/vocap.zip?dl=0
 
 
+**3.外部のURLから、zipファイルをダウンロードして下さい。zipファイルのまま、解答せずにコードは動きます。
+
+単眼カメラ画像の深度推定を行う部分は、次のリポジトリの実装コードを利用しています。
+
+* https://github.com/nianticlabs/monodepth2
+
+このリポジトリには、次の一文があります。
+
+> On its first run either of these commands will download the mono+stereo_640x192 pretrained model (99MB) into the models/ folder. We provide the following options for --model_name:
+
+上記の指示に従い、次のURLから、zipファイルをダウンロードして下さい。
+
+* https://storage.googleapis.com/niantic-lon-static/research/monodepth2/mono_640x192.zip
