@@ -109,7 +109,7 @@ wgetコマンドで取得できます。
 >    urllib.request.urlretrieve(model_url, model_path + ".zip")
 
 
-# その他の実行ふぁいる
+# その他の実行ファイル
 
 ### *tello_image_caption_mask_rcnn_object_detection.py*
 
