@@ -111,9 +111,15 @@ wgetコマンドで取得できます。
 
 # その他の実行ファイル
 
-### *tello_image_caption_mask_rcnn_object_detection.py*
+## *tello_image_caption_mask_rcnn_object_detection.py*
 
 >  python3 tello_image_caption_mask_rcnn_object_detection.py
+
+### 3分割画面
+
+* 上段左：RCNN-Mask
+* 上段右：物体検出および検出人物数、Tello高度メッセージ
+* 下段： キャプション文 
 
 <img width="1104" alt="スクリーンショット 2021-08-13 18 20 55" src="https://user-images.githubusercontent.com/87643752/129336032-ee882911-3640-45cd-a6fa-35b6a3342efe.png">
 
@@ -121,8 +127,3 @@ wgetコマンドで取得できます。
 
 ![frame_img_shot_2021年08月13日18:18:11](https://user-images.githubusercontent.com/87643752/129335960-5f47fcfb-ceb3-4416-b41c-07a7c169fe64.jpg)
 
-#### 3分割画面
-
-* 上段左：RCNN-Mask
-* 上段右：物体検出および検出人物数、Tello高度メッセージ
-* 下段： キャプション文 
