@@ -107,3 +107,22 @@ wgetコマンドで取得できます。
 
 > download_model_if_doesnt_exist
 >    urllib.request.urlretrieve(model_url, model_path + ".zip")
+
+
+# その他の実行ふぁいる
+
+### *tello_image_caption_mask_rcnn_object_detection.py*
+
+>  python3 tello_image_caption_mask_rcnn_object_detection.py
+
+<img width="1104" alt="スクリーンショット 2021-08-13 18 20 55" src="https://user-images.githubusercontent.com/87643752/129336032-ee882911-3640-45cd-a6fa-35b6a3342efe.png">
+
+![frame_img_shot_2021年08月13日18:15:27](https://user-images.githubusercontent.com/87643752/129335935-f3496af1-3800-4baa-b682-a43a2c186db2.jpg)
+
+![frame_img_shot_2021年08月13日18:18:11](https://user-images.githubusercontent.com/87643752/129335960-5f47fcfb-ceb3-4416-b41c-07a7c169fe64.jpg)
+
+#### 3分割画面
+
+* 上段左：RCNN-Mask
+* 上段右：物体検出および検出人物数、Tello高度メッセージ
+* 下段： キャプション文 
