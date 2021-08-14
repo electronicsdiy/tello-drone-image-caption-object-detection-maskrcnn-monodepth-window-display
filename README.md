@@ -49,7 +49,7 @@ wget http://download.tensorflow.org/models/object_detection/mask_rcnn_inception_
 tar zxvf mask_rcnn_inception_v2_coco_2018_01_28.tar.gz
 ```
 
-### ezamples/models/直下で以下を実行してください
+### examples/models/直下で以下を実行してください
 
 画像のキャプション文を生成する処理は、次のリポジトリの資源を借用しています。
 
